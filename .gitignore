@@ -1,0 +1,14 @@
+# Ignore data folder
+data/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files
+Research papers/
