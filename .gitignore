@@ -12,3 +12,6 @@ __pycache__/
 
 # Ignore model files
 Research papers/
+
+Dataset/
+wandb/
